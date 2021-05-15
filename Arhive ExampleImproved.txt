@@ -1,0 +1,6 @@
+Arhive Example:
+Name: [LAST, FIRST]: Adam Black
+Type: [HUMAN, PRC, GOI]: Person
+Class Level: [1, 2, 3, 4, 5]: 4
+Position: [UTF, SD, E&T]: Site Executive
+User Owner: JustKidding#7769
